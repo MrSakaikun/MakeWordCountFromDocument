@@ -120,7 +120,10 @@ yuyasakai1002[at]gmail.com
 
 ↑[at]を@に変えてください
 
+## LICENSE
+Please check [here](https://github.com/MrSakaikun/MakeWordCountFromDocument/blob/master/LICENSE)
 
+MIT License
 
 
 
