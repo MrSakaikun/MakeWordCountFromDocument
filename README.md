@@ -55,7 +55,7 @@ python save_word_count_from_document.py
 
 
 ## 他の使い方
-* binaryfile形式で保存したい場合
+#### binaryfile形式で保存したい場合
 
 save_word_count_from_document.py の最終行の関数の引数を
 ```
@@ -63,7 +63,7 @@ save_word_count_from_document.py の最終行の関数の引数を
 ```
 に変更してください.
 
-* 読み込む文書のファイル名の指定，保存するファイル名の変更
+#### 読み込む文書のファイル名の指定，保存するファイル名の変更
 
 読み込む文書のファイル名は，save_word_count_from_document.py内にある変数を以下のように変えてください．
 ```python
@@ -78,7 +78,7 @@ saveFileName = '指定したいPath,ファイル名'
 saveFileName = './SaveFile/word_count.' #.まで入れる
 ```
 
-* MeCab の辞書を個別で指定する場合
+#### MeCab の辞書を個別で指定する場合
 
 extract_noun.py内にある以下のコード
 ```python
