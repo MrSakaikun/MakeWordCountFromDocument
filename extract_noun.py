@@ -3,6 +3,8 @@ import MeCab
 
 #MeCab
 m = MeCab.Tagger ()
+#必要があれば（MeCab辞書を変える場合）以下のように随時コードに変えてください
+# m = MeCab.Tagger ('-d /usr/local/lib/mecab/dic/mecab-ipadic-neologd')
 
 #形態素解析
 def mecab_parse(text):
