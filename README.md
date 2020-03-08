@@ -106,6 +106,7 @@ csv形式で保存した場合は，
 パッケージ collections の Counter クラスがそのまま入っています．使い方などは以下のページなどを参照してください．
 
 【Python】リストの要素の数え上げ、collections.Counterの使い方:
+
 https://qiita.com/ell/items/259388b511e24625c0d7
 
 
